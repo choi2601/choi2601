@@ -8,5 +8,5 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choi2601&show_icons=true&locale=en&layout=compact" alt="choi2601" width="350" height="165"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=choi2601&show_icons=true&locale=en" alt="choi2601" width="350" height="165"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=choi2601&show_icons=true&locale=en" alt="choi2601" width="345" height="165"/></p>
 
