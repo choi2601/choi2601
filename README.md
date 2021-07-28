@@ -6,7 +6,11 @@
 <ul>
  <li>🌱 I’m currently learning Html, CSS, JS, React</li>
 </ul>
-
+<a href="https://choi95.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=choi2601&show_icons=true&locale=en&layout=compact" alt="choi2601" width="345" height="165"/>
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=choi2601&show_icons=true&locale=en" alt="choi2601" width="350" height="165"/> </p>
