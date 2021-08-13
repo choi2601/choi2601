@@ -8,7 +8,7 @@
 </ul>
 <a href="https://choi95.tistory.com/">
     <img 
-        src="https://img.shields.io/badge/-TechBlog-blueviolet"
+        src="https://img.shields.io/badge/-TechBlog-blueviolet?style=for-the-badge&logo=Google Messages&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://pumped-kiwi-9cd.notion.site/PUBLIC-efe06661110b4fb69c4cc882f72df1f2">
