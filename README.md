@@ -8,7 +8,7 @@
 </ul>
 <a href="https://choi95.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        src="https://img.shields.io/badge/-TechBlog-blueviolet"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <hr>
