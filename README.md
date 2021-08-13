@@ -11,6 +11,11 @@
         src="https://img.shields.io/badge/-TechBlog-blueviolet"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://pumped-kiwi-9cd.notion.site/PUBLIC-efe06661110b4fb69c4cc882f72df1f2">
+    <img 
+        src="https://img.shields.io/badge/-Notion-orange?style=for-the-badge&logo=Notion&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=choi2601&show_icons=true&locale=en&layout=compact" alt="choi2601" width="345" height="165"/>
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=choi2601&show_icons=true&locale=en" alt="choi2601" width="350" height="165"/> </p>
