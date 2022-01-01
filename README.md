@@ -19,4 +19,3 @@
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=choi2601&show_icons=true&locale=en" alt="choi2601" width="350" height="165"/>
 </p>
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
