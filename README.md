@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm ByeongHyeon Choi!</h1>
+<h3 align="center">Hi 👋, I'm ByeongHyeon Choi!</h3>
 <h3 align="center">A passionate junior frontend developer from South Korea</h3>
-
+<h2></h2>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
