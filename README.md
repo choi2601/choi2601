@@ -31,5 +31,5 @@
 <h2></h2>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&locale=en&theme=dark&username=choi2601" alt="choi2601" width="345" height="165"/>
- <img src = "https://leetcode.card.workers.dev/?username=choi2601&font=source_code_pro&extension=null&theme=nord" width="345" height="165" />
+ <img src = "https://leetcode.card.workers.dev/?username=choi2601&font=source_code_pro&extension=null&theme=dark" width="345" height="165" />
 </p>
