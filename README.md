@@ -1,5 +1,7 @@
-<h3 align="center">Hi 👋, I'm ByeongHyeon Choi!</h3>
-<h3 align="center">A passionate junior frontend developer from South Korea</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I'm%20Byeong%20Hyeon&fontSize=90" />
+  <h3 align="center">👨‍💻  A Passionate Frontend developer from South Korea</h3>
+</p>
 <h2></h2>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
