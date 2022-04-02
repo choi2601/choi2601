@@ -26,7 +26,7 @@
         src="https://img.shields.io/badge/-TechBlog-blueviolet?style=for-the-badge&logo=GoogleMessages&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://pumped-kiwi-9cd.notion.site/PUBLIC-efe06661110b4fb69c4cc882f72df1f2">
+<a href="https://www.notion.so/FE-9830bcd9ba6e46b2afd033bc28fcb336">
     <img 
         src="https://img.shields.io/badge/-Notion-orange?style=for-the-badge&logo=Notion&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
